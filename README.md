@@ -1,4 +1,3 @@
 # exercicios-metodos-strings
 
-Javascript
-Node.js
+Exercícios praticados em 07/10/2022, utilizando Javascript/Node.js
